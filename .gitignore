@@ -1,0 +1,16 @@
+# compiled binary
+opencode-widget
+
+# personal avatar images (bring your own)
+avatar.png
+avatar.jpg
+avatar.jpeg
+avatar_*.png
+avatar_*.jpg
+avatar_*.jpeg
+
+# logs
+*.log
+
+# macOS
+.DS_Store
