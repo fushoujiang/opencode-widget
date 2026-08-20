@@ -4,9 +4,7 @@
 
 ## 演示
 
-[![演示视频](assets/cover.jpg)](assets/demo.mp4)
-
-[点击观看演示视频](assets/demo.mp4)
+https://raw.githubusercontent.com/fushoujiang/opencode-widget/main/assets/demo.mp4
 
 ## 特性
 
