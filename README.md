@@ -4,8 +4,6 @@
 
 ## 演示
 
-https://raw.githubusercontent.com/fushoujiang/opencode-widget/main/assets/demo.mp4
-
 [![演示视频](assets/cover.jpg)](assets/demo.mp4)
 
 ## 特性
@@ -13,6 +11,8 @@ https://raw.githubusercontent.com/fushoujiang/opencode-widget/main/assets/demo.m
 - **圆形头像挂件**：头像 + 状态环 + 实时动作提示
 - **实时状态**：
   - 🟢 绿环呼吸 = 正在运行工具（如 `⚡ bash · git status`）
+
+
   - 🟠 橙环 = 正在思考 / 生成文本
   - ⚪ 灰环 = 空闲（`摸鱼中 🐟`）
 - **只展示活跃会话**：最近 20 秒内有活动的会话才显示
