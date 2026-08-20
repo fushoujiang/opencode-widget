@@ -4,7 +4,10 @@
 
 ## 演示
 
-[![演示视频](assets/cover.jpg)](assets/demo.mp4)
+
+
+https://github.com/user-attachments/assets/bae20744-84c2-4d5b-968e-06867cb97aba
+
 
 ## 特性
 
